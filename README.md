@@ -8,16 +8,16 @@ Maxi is playing the game and at a particular time wants to know if it is possibl
 Input Format
 The first line of input consist of number of test cases, T.
 
-The first line of each test case consist of number of villains and player, N.
+  The first line of each test case consist of number of villains and player, N.
 
-The second line of each test case consist of the N space separated strengths of Villains.
+  The second line of each test case consist of the N space separated strengths of Villains.
 
-The third line of each test case consist of N space separated energy of players.
+  The third line of each test case consist of N space separated energy of players.
 
 
 
-Constraints
-1<= T <=10
+  Constraints
+  1<= T <=10
 
 1<= N <=1000
 
